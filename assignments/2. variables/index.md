@@ -88,3 +88,26 @@ var markAge = 35;
 
 // Calculate the average age of john and mark and assign to a new variable.
 ```
+
+Output of the following and why :
+
+```js
+let charactor = "Arya";
+charactor = "John";
+console.log(typeof charactor);
+```
+
+Output of the following and why :
+
+```js
+let charactor = "Arya";
+console.log(typeof charactor);
+charactor = 10;
+```
+
+valid or not (why)
+
+```js
+null = 10;
+console.log(null);
+```
