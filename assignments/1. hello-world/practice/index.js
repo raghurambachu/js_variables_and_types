@@ -21,7 +21,6 @@ alert("Hello World");
 let personName = prompt("Please enter your name","")
 alert("Welcome "+ personName);
 
-
 // Challenge 5.
 // Get an input from the user using the prompt box and display the length of the string.
 // e.g “Learning is fun” should output will be 15.
